@@ -7,6 +7,8 @@
 
 **Ответ:**
 
+Ссылка на First commit https://github.com/SemkinVA/8.1-Git-HW/commit/261f05b8296ecd918fb77503806bd9545fad2e68
+
 1. Зарегистрируйте аккаунт на [GitHub](https://github.com/). 
 
 ![1-1](https://github.com/SemkinVA/8.1-Git-HW/blob/main/1-1.png)
@@ -65,6 +67,9 @@
 
 **Ответ:**
 
+Ссылка на Second commit https://github.com/SemkinVA/8.1-Git-HW/commit/0b24a6d30a374c02811326263f26943462d4dab4
+
+
 1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
 
 ![2-1](https://github.com/SemkinVA/8.1-Git-HW/blob/main/2-1.png)
@@ -86,6 +91,9 @@
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
 **Ответ:**
+
+Сссылка на график коммитов https://github.com/SemkinVA/8.1-Git-HW/network
+
 
 1. Создайте новую ветку dev и переключитесь на неё.
 
